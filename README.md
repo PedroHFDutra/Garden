@@ -6,12 +6,12 @@
 <p>
 <b>🌠 Confira funcionalidades presentes: </b>
 </p>
-<p>- Cadastro de Moradores
+<p>- Cadastro de Moradores 👨‍👩‍👦‍👦
   </p>
-<p>- Cálculo de Consumo de Água por Residência
+<p>- Cálculo de Consumo de Água por Residência 🚿
   </p>
- <p>- Cadastro e Histórico de Multas por Morador
+ <p>- Cadastro e Histórico de Multas por Morador 💲
   </p>
-<p>- Cadastro de Residência (Com áreas e muito mais)
+<p>- Cadastro de Residência (Com áreas e muito mais) 🏠
   </p>
 </div>
