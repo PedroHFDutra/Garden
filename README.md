@@ -4,6 +4,7 @@
 <b><i>Software em MS-DOS para controle e organização de moradores e condomínios visando uma melhor gestão!</b></i>
 </p>
 <p>
-<b> </b>
+<b>🌠 Confira funcionalidades presentes: </b>
 </p>
+<p></p>
 </div>
