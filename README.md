@@ -6,7 +6,7 @@
 <p>
 <b>🌠 Confira funcionalidades presentes: </b>
 </p>
-<p>- Cadastro de Moradores 👨‍👩‍👦‍👦
+<p><b>- Cadastro de Moradores 👨‍👩‍👦‍👦</b>
   </p>
 <p>- Cálculo de Consumo de Água por Residência 🚿
   </p>
