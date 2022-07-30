@@ -8,10 +8,10 @@
 </p>
 <p><b>- Cadastro de Moradores 👨‍👩‍👦‍👦</b>
   </p>
-<p>- Cálculo de Consumo de Água por Residência 🚿
+<p><b>- Cálculo de Consumo de Água por Residência 🚿</b>
   </p>
- <p>- Cadastro e Histórico de Multas por Morador 💲
+ <p><b>- Cadastro e Histórico de Multas por Morador 💲</b>
   </p>
-<p>- Cadastro de Residência (Com áreas e muito mais) 🏠
+<p><b>- Cadastro de Residência (Com áreas e muito mais) 🏠</b>
   </p>
 </div>
